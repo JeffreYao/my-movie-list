@@ -6,3 +6,5 @@ A simple web application for movie fanatic
 - searching movies by title
 - add movies to your favorite list
 - manage your favorite list
+
+##ADD
