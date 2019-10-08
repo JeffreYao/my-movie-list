@@ -7,4 +7,3 @@ A simple web application for movie fanatic
 - add movies to your favorite list
 - manage your favorite list
 
-##ADD
